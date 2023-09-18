@@ -1,0 +1,16 @@
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe.config
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\Uzduotis.pdb
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.AssemblyReference.cache
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Properties.Resources.resources
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.GenerateResource.cache
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.exe
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.pdb
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\DataBase.db
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\Dapper.dll
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\System.Data.SQLite.dll
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\Dapper.xml
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\bin\Debug\System.Data.SQLite.xml
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Harnesess_Form.resources
+C:\Users\Justinas\Desktop\AqUzduotis\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.CopyComplete
